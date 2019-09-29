@@ -1,0 +1,6 @@
+{
+  "env": {
+    "TWILIO_AUTHTOKEN": "@twilio_authtoken",
+    "TWILIO_ACCOUNTSID": "@twilio_accountsid"
+  }
+}
